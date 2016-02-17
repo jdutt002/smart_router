@@ -1,0 +1,248 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 5, 2016, 2:26:48 PM
+    Author     : Jay
+*/
+#BODY_1 {
+    height: 475.188px;
+    width: 1333px;
+    perspective-origin: 666.5px 237.594px;
+    transform-origin: 666.5px 237.594px;
+    font: normal normal normal normal 16px / normal 'Times New Roman';
+}/*#BODY_1*/
+
+#IMG_2 {
+    height: 54px;
+    width: 134px;
+    perspective-origin: 67px 27px;
+    transform-origin: 67px 27px;
+    font: normal normal normal normal 16px / normal 'Times New Roman';
+}/*#IMG_2*/
+
+#A_3 {
+    font: normal normal normal normal 16px / normal 'Times New Roman';
+}/*#A_3*/
+
+#H1_4, #H1_30, #H1_32 {
+    height: 37px;
+    width: 1333px;
+    perspective-origin: 666.5px 18.5px;
+    transform-origin: 666.5px 18.5px;
+    font: normal normal bold normal 32px / normal 'Times New Roman';
+    margin: 21.44px 0px;
+}/*#H1_4, #H1_30, #H1_32*/
+
+#TABLE_5 {
+    border-collapse: collapse;
+    height: 145px;
+    width: 1332px;
+    perspective-origin: 666.5px 72.5px;
+    transform-origin: 666.5px 72.5px;
+    border: 1px solid rgb(0, 0, 0);
+    font: normal normal normal normal 16px / normal 'Times New Roman';
+}/*#TABLE_5*/
+
+#TBODY_6 {
+    border-collapse: collapse;
+    height: 145px;
+    width: 1332px;
+    perspective-origin: 666px 72.5px;
+    transform-origin: 666px 72.5px;
+    border-spacing: 2px 2px;
+    font: normal normal normal normal 16px / normal 'Times New Roman';
+}/*#TBODY_6*/
+
+#TR_7, #TR_10, #TR_16, #TR_20, #TR_24 {
+    border-collapse: collapse;
+    height: 29px;
+    vertical-align: middle;
+    width: 1332px;
+    perspective-origin: 666px 14.5px;
+    transform-origin: 666px 14.5px;
+    border-spacing: 2px 2px;
+    font: normal normal normal normal 16px / normal 'Times New Roman';
+}/*#TR_7, #TR_10, #TR_16, #TR_20, #TR_24*/
+
+#TH_8 {
+    border-collapse: collapse;
+    height: 18px;
+    vertical-align: middle;
+    width: 616px;
+    perspective-origin: 313.5px 14.5px;
+    transform-origin: 313.5px 14.5px;
+    border: 1px solid rgb(0, 0, 0);
+    border-spacing: 2px 2px;
+    font: normal normal bold normal 16px / normal 'Times New Roman';
+    padding: 5px;
+}/*#TH_8*/
+
+#TH_9 {
+    border-collapse: collapse;
+    height: 18px;
+    vertical-align: middle;
+    width: 694px;
+    perspective-origin: 352.5px 14.5px;
+    transform-origin: 352.5px 14.5px;
+    border: 1px solid rgb(0, 0, 0);
+    border-spacing: 2px 2px;
+    font: normal normal bold normal 16px / normal 'Times New Roman';
+    padding: 5px;
+}/*#TH_9*/
+
+#TD_11, #TD_17, #TD_21, #TD_25 {
+    border-collapse: collapse;
+    height: 18px;
+    vertical-align: middle;
+    width: 616px;
+    perspective-origin: 313.5px 14.5px;
+    transform-origin: 313.5px 14.5px;
+    border: 1px solid rgb(0, 0, 0);
+    border-spacing: 2px 2px;
+    font: normal normal normal normal 16px / normal 'Times New Roman';
+    padding: 5px;
+}/*#TD_11, #TD_17, #TD_21, #TD_25*/
+
+#TD_12, #TD_18, #TD_22, #TD_26 {
+    border-collapse: collapse;
+    height: 18px;
+    vertical-align: middle;
+    width: 694px;
+    perspective-origin: 352.5px 14.5px;
+    transform-origin: 352.5px 14.5px;
+    border: 1px solid rgb(0, 0, 0);
+    border-spacing: 2px 2px;
+    font: normal normal normal normal 16px / normal 'Times New Roman';
+    padding: 5px;
+}/*#TD_12, #TD_18, #TD_22, #TD_26*/
+
+#DIV_13 {
+    border-collapse: collapse;
+    height: 18px;
+    width: 694px;
+    perspective-origin: 347px 9px;
+    transform-origin: 347px 9px;
+    border-spacing: 2px 2px;
+    font: normal normal normal normal 16px / normal 'Times New Roman';
+}/*#DIV_13*/
+
+#A_14 {
+    border-collapse: collapse;
+    border-spacing: 2px 2px;
+    font: normal normal normal normal 16px / normal 'Times New Roman';
+}/*#A_14*/
+
+#TR_15, #TR_19, #TR_27 {
+    border-collapse: collapse;
+    vertical-align: middle;
+    width: 1332px;
+    perspective-origin: 666px 0px;
+    transform-origin: 666px 0px;
+    border-spacing: 2px 2px;
+    font: normal normal normal normal 16px / normal 'Times New Roman';
+}/*#TR_15, #TR_19, #TR_27*/
+
+#TR_23 {
+    border-collapse: collapse;
+    vertical-align: middle;
+    width: 1332px;
+    perspective-origin: 666px 0px;
+    transform-origin: 666px 0px;
+    border-spacing: 2px 2px;
+    font: normal normal normal normal 16px / normal 'Times New Roman';
+}/*#TR_23*/
+
+#P_28 {
+    height: 18px;
+    width: 1333px;
+    perspective-origin: 666.5px 9px;
+    transform-origin: 666.5px 9px;
+    font: normal normal normal normal 16px / normal 'Times New Roman';
+    margin: 16px 0px;
+}/*#P_28*/
+
+#HR_29, #HR_31 {
+    width: 1331px;
+    perspective-origin: 666.5px 1px;
+    transform-origin: 666.5px 1px;
+    font: normal normal normal normal 16px / normal 'Times New Roman';
+    margin: 8px 0px;
+}/*#HR_29, #HR_31*/
+
+#DIV_33 {
+    float: left;
+    height: 478.813px;
+    width: 212px;
+    perspective-origin: 106px 239.406px;
+    transform-origin: 106px 239.406px;
+    font: normal normal normal normal 16px / normal 'Times New Roman';
+    margin: 15px;
+}/*#DIV_33*/
+
+#H2_34 {
+    height: 27px;
+    width: 212px;
+    perspective-origin: 106px 13.5px;
+    transform-origin: 106px 13.5px;
+    font: normal normal bold normal 24px / normal 'Times New Roman';
+    margin: 19.92px 0px;
+}/*#H2_34*/
+
+#DIV_35 {
+    height: 383px;
+    width: 183px;
+    perspective-origin: 106px 206px;
+    transform-origin: 106px 206px;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 1px solid rgb(187, 187, 187);
+    border-right: 1px solid rgb(255, 255, 255);
+    border-bottom: 1px solid rgb(255, 255, 255);
+    border-left: 1px solid rgb(187, 187, 187);
+    font: normal normal normal normal 16px / normal 'Times New Roman';
+    overflow: scroll;
+    padding: 5px;
+}/*#DIV_35*/
+
+#UL_36 {
+    height: 36px;
+    width: 183px;
+    perspective-origin: 91.5px 18px;
+    transform-origin: 91.5px 18px;
+    font: normal normal normal normal 11px / 18px Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}/*#UL_36*/
+
+#LI_37, #LI_39 {
+    height: 18px;
+    white-space: nowrap;
+    width: 163px;
+    perspective-origin: 91.5px 9px;
+    transform-origin: 91.5px 9px;
+    background: rgba(0, 0, 0, 0) url("http://vsclabsr.engr.ucr.edu/images/directory.png") no-repeat scroll 0% 0% / auto padding-box border-box;
+    font: normal normal normal normal 11px / 18px Verdana, sans-serif;
+    list-style: none outside none;
+    padding: 0px 0px 0px 20px;
+}/*#LI_37, #LI_39*/
+
+#A_38, #A_40 {
+    color: rgb(51, 51, 51);
+    display: block;
+    height: 18px;
+    text-align: left;
+    text-decoration: none;
+    white-space: nowrap;
+    width: 159px;
+    perspective-origin: 81.5px 9px;
+    transform-origin: 81.5px 9px;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 11px / 18px Verdana, sans-serif;
+    list-style: none outside none;
+    outline: rgb(51, 51, 51) none 0px;
+    padding: 0px 2px;
+}/*#A_38, #A_40*/
+
+
